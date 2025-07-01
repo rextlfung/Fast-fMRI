@@ -1,5 +1,5 @@
 # Fast-fMRI
-A set of tools for highly accelerated fMRI acquisition and reconstruction.
+A set of tools for vendor-agnostic, highly accelerated fMRI acquisition and reconstruction.
 
 This is the parent repository of these three repositories:
 1. [Acquisition](https://github.com/rextlfung/rand3depi): Random sampling pattern generation, pulseq sequence programming, and pulseq --> GE interpretation.
