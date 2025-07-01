@@ -1,4 +1,6 @@
 # Fast-fMRI
+![preview of random 3D-EPI trajectory](https://github.com/rextlfung/Fast-fMRI/blob/main/logo.png)
+
 A set of tools for highly accelerated fMRI acquisition and reconstruction.
 
 This is the parent repository of these three repositories:
